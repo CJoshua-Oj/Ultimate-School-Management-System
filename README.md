@@ -33,7 +33,7 @@ Admin dashboard
 - Apache/Nginx
 - PHP extensions: mysqli, session
 
-Installation:
+# Installation
 1. Create a MySQL database.
 2. Import `database/install.sql` using phpMyAdmin or the MySQL client.
 3. Edit `config/config.php` or set `DB_HOST`, `DB_NAME`, `DB_USER`, and `DB_PASS`.
